@@ -230,35 +230,3 @@ npm run dev
 **4️⃣ Mobile app (React Native)**
 
 **5️⃣ Advanced analytics dashboard**
-
-# 🤝 Contributing
-
-Contributions are welcome and appreciated!
-
-To contribute:
-```bash
-
-Fork the repo
-
-Create your feature branch (git checkout -b feature-name)
-
-Commit changes (git commit -m "Add new feature")
-
-Push to branch (git push origin feature-name)
-
-Submit a pull request
-```
-
-# 🧑‍💻 Developed By
-
-## Metasebiyaw Asfaw
-### Software Engineer | Full-Stack Developer 
-📧 [metasebiyawasfaw@gmail.com](metasebiyawasfaw@gmail.com)
-🌐 [Portifolio](https://metasebiyawasfaw.vercel.app/)
-
-## 🪪 License
-
-This project is licensed under the *MIT* License see the LICENSE
- file for details.
-
- ⭐ If you found this project useful, please give it a star it helps others discover it!
